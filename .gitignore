@@ -1,0 +1,12 @@
+*.egg-info
+__pycache__/
+*.py[cod]
+.ropeproject/
+.idea
+.DS_Store
+celerybeat*
+*.dat
+build/
+.cache
+.dir-locals.el
+.swp
